@@ -36,9 +36,9 @@ https://github.com/merlinkv/MaxDuino_1.56M
  
 ![Alt text](https://raw.githubusercontent.com/capsule5000/CASduino-MEGA/master/Images/foto20x4.jpg?raw=true "Title")
 
-![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/master/Images/IMG_20200609_121924.jpg?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/capsule5000/CASduino-MEGA/master/Images/IMG_20200609_121924.jpg?raw=true "Title")
 
-![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/master/Images/IMG_20200609_150529?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/capsule5000/CASduino-MEGA/master/Images/IMG_20200609_150529?raw=true "Title")
 
 # Note
 
