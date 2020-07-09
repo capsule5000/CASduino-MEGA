@@ -1,0 +1,29 @@
+BOM CASduino_MEGA
+=======================
+
+Referencia          Valor                      Encapsulado            Cantidad
+R1                  62 Ohms SMD                    0805               resistor x1
+R2                  7.5K SMD                       0805               resistor x1
+R3                  7.5K SMD                       0805               resistor x1
+R4                  7.5K SMD                       0805               resistor x1
+R1                  62 Ohms Through-Hole                              resistor x1                        
+R2                  7.5 KOhms Through-Hole                            resistor x1
+R3                  7.5 KOhms Through-Hole                            resistor x1
+R4                  7.5 KOhms Through-Hole                            resistor x1
+
+– Arduino MEGA2560pro USB                                             x1
+– Oled 0.96 / 1.3 / LCD 16x2 / LCD 20x4                               x1
+– Switch Amplifier SMD                                                x1
+– Socket PCB Audio out                                                x1
+– Socket PCB REM                                                      x1
+-  Socket PCB Audio REC (opcional)                                    x1
+– Leds SMD 0805 x4 o Leds Through-Hole                                x4
+– Switch MUTE                                                         x1
+– Modulo SD SMD                                                       x1
+– Speaker                                                             x1
+– Micro switch 12x12                                                  x6
+– Módulo PAM8406                                                      x1
+- Socket PCB DC 5,5mmx2,1mm                                           x1
+- Tira de pines rectos y en forma L                                   varios/x1
+- Jumpers                                                             x2
+-Cableado para las pantallas 16x2/20x4                                x4
