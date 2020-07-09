@@ -34,7 +34,7 @@ https://github.com/merlinkv/MaxDuino_1.56M
 
  # Images
  
-![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/master/Images/foto20x4.jpg?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/capsule5000/CASduino-MEGA/master/Images/foto20x4.jpg?raw=true "Title")
 
 ![Alt text](https://raw.githubusercontent.com/capsule5000/TSXDuino-MEGA/master/Images/img6.png?raw=true "Title")
 
